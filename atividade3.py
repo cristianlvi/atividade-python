@@ -1,6 +1,6 @@
 
 
-print('Bem-vindo a madeira de Lenhador Cristian Luan Vieira Pinto')
+print('Bem-vindo a madeira de Lenhador Cristian')
 
 def escolha_tipo():
     

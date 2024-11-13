@@ -5,7 +5,7 @@
 
 
 
-print('Bem-vindo ao sistema do Cristian Luan Vieira Pinto')
+print('Bem-vindo ao sistema do Cristian')
 valorBase = float(input('Digite o valor base do plano: '))
 idade = int(input('Digite a idade do cliente: ')) 
 

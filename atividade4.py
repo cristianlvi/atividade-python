@@ -1,9 +1,9 @@
 
 
-print('Bem-vindo a lista de contatos do Cristian Luan Vieira Pinto')
+print('Bem-vindo a lista de contatos do Cristian')
 
 lista_contatos = []
-id_global = 5052943
+id_global = 1 # RU aqui
 
 def cadastrar_contato(id):
         # Funcao que permite que eu crie contatos 

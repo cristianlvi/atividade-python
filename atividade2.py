@@ -1,6 +1,6 @@
 
    
-print('Bem-vindo a Pizzaria do Cristian Luan Vieira Pinto')
+print('Bem-vindo a Pizzaria do Cristian')
 print('-' * 59)
 print('-' * 24, 'cardapio', '-' * 25)
 print('-'*59)
